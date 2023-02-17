@@ -4650,16 +4650,16 @@
       (reference "U102") (unit 1) (value "M24C64") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/7d8bb20b-85ad-49d9-af7a-f7024b6e5b75/05becd89-eb22-447f-be1a-91c34969d3f6"
-      (reference "U201") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias")
+      (reference "U201") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm")
     )
     (path "/7d8bb20b-85ad-49d9-af7a-f7024b6e5b75/32fdaeb4-a6a2-48e1-b8b6-7c02b1f51dfb"
-      (reference "U202") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias")
+      (reference "U202") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm")
     )
     (path "/7d8bb20b-85ad-49d9-af7a-f7024b6e5b75/4876c05b-ebba-4b60-a943-35d8e54257e2"
-      (reference "U203") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias")
+      (reference "U203") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm")
     )
     (path "/7d8bb20b-85ad-49d9-af7a-f7024b6e5b75/ef745847-0d9a-4a91-87db-605f37be1946"
-      (reference "U204") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias")
+      (reference "U204") (unit 1) (value "TMC2209") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm")
     )
     (path "/582c5183-e973-4508-b3ed-ec8963837563"
       (reference "Y101") (unit 1) (value "25MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
