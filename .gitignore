@@ -1,6 +1,6 @@
 /gerbers
 /*-backups
-*.kicad_pcb_bak
+*.kicad_pcb-bak
 *.zip
 *.xml
 *.kicad_pcb
