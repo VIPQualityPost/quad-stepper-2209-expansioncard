@@ -4,3 +4,5 @@
 *.zip
 *.xml
 *.kicad_pcb
+fp-info-cache
+.DS_Store
